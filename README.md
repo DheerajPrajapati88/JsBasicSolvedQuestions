@@ -1,2 +1,2 @@
 # JsBasicSolvedQuestions
- I have solved practiced Javascript basic questions 
+ I have solved and practiced Javascript basic questions 
